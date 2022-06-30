@@ -1,6 +1,6 @@
 {
-    "name": "lvawo_web",
-    "short_name": "lvawo_web",
+    "name": "lvawo_responsive",
+    "short_name": "lvawo_responsive",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
